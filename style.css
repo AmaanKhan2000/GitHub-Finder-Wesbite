@@ -1,0 +1,29 @@
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.muted{
+  color: #808080;
+}
+
+footer{
+  background-color: #660000;
+}
+
+.fab{
+  margin-right: 0.5rem;
+}
+.btn-danger{
+  margin-left: 15px;
+  background-color: #660000 !important;
+}
+.btn-success{
+  background-color: #264d00 !important;
+}
+body{
+  background-color: ;
+}
+
+#view{
+  border-radius: 5px;
+}
